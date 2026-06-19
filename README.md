@@ -74,6 +74,10 @@ python main_cli.py import --file backup.xml
 ```bash
 pytest tests/ -v
 ```
+- В VS Code: Ctrl + `` (обратный апостроф) или меню Terminal → New Terminal
+- В PyCharm: Alt + F12 или меню View → Tool Windows → Terminal
+- В Windows: откройте cmd или PowerShell и перейдите в папку проекта
+
 Тесты покрывают работу с базой данных, экспорт/импорт и модели данных. Они используют изолированные базы данных в памяти и не влияют на основной файл delivery.db.
 
 ### Логирование
