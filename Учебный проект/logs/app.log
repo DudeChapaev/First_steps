@@ -1,0 +1,194 @@
+2026-06-13 10:16:00,959 - Database - INFO - База данных инициализирована
+2026-06-13 10:16:05,597 - Database - INFO - Добавлен клиент: Тестовый клиент
+2026-06-13 10:16:23,923 - Database - INFO - Создан заказ ID: 1
+2026-06-13 10:16:33,877 - Database - INFO - Удален заказ ID: 1
+2026-06-13 10:18:15,963 - Database - INFO - Создан заказ ID: 2
+2026-06-13 10:19:27,974 - Database - INFO - Обновлен заказ ID: 2
+2026-06-13 10:22:40,362 - Database - INFO - Удален заказ ID: 2
+2026-06-13 12:29:35,982 - Database - INFO - База данных инициализирована
+2026-06-13 12:30:09,549 - Database - INFO - Добавлен клиент: Пупа
+2026-06-13 12:30:09,629 - Database - INFO - Добавлен клиент: Пупа
+2026-06-13 12:30:58,890 - Database - INFO - Создан заказ ID: 3
+2026-06-13 12:31:06,572 - Database - INFO - Удален заказ ID: 3
+2026-06-13 12:32:15,579 - Database - INFO - Добавлен клиент: Никитка
+2026-06-13 12:47:25,796 - Database - INFO - База данных инициализирована
+2026-06-13 12:48:39,031 - Database - INFO - Удален клиент ID: 3
+2026-06-13 13:05:55,603 - Database - INFO - База данных инициализирована
+2026-06-13 13:06:52,870 - Database - INFO - База данных инициализирована
+2026-06-13 13:10:15,785 - Database - INFO - База данных инициализирована
+2026-06-13 13:10:25,514 - Database - INFO - Удален клиент ID: 4
+2026-06-13 13:17:08,924 - Database - INFO - База данных инициализирована
+2026-06-13 13:18:50,225 - Database - INFO - Создан заказ ID: 4
+2026-06-13 13:19:12,783 - Database - INFO - Обновлен заказ ID: 4
+2026-06-13 13:20:09,849 - Database - INFO - Добавлен клиент: Кика
+2026-06-13 13:21:35,774 - Database - INFO - Создан заказ ID: 5
+2026-06-13 13:21:51,308 - Database - INFO - Обновлен заказ ID: 5
+2026-06-16 16:25:34,650 - Database - INFO - База данных инициализирована
+2026-06-16 16:26:18,630 - Database - INFO - Добавлен клиент: Никитоска
+2026-06-16 16:27:04,631 - Database - INFO - Создан заказ ID: 6
+2026-06-16 16:27:11,654 - Database - INFO - Обновлен заказ ID: 6
+2026-06-16 16:28:17,349 - Database - INFO - Удален заказ ID: 6
+2026-06-16 16:28:21,880 - Database - INFO - Удален клиент ID: 6
+2026-06-16 16:28:58,021 - Database - INFO - Добавлен клиент: Чича
+2026-06-16 16:29:57,176 - Database - INFO - Создан заказ ID: 7
+2026-06-16 16:30:30,418 - Database - INFO - Создан заказ ID: 8
+2026-06-16 16:30:46,120 - Database - INFO - Обновлен заказ ID: 8
+2026-06-16 16:31:21,679 - Database - INFO - Обновлен заказ ID: 7
+2026-06-19 14:55:56,806 - Database - INFO - База данных инициализирована
+2026-06-19 14:55:56,845 - Database - INFO - База данных инициализирована
+2026-06-19 14:55:56,853 - Database - INFO - База данных инициализирована
+2026-06-19 14:56:14,780 - Database - INFO - База данных инициализирована
+2026-06-19 14:56:14,825 - Database - INFO - База данных инициализирована
+2026-06-19 14:56:14,834 - Database - INFO - База данных инициализирована
+2026-06-19 14:56:14,845 - Database - INFO - База данных инициализирована
+2026-06-19 14:56:14,862 - Database - INFO - База данных инициализирована
+2026-06-19 14:56:14,872 - Database - INFO - База данных инициализирована
+2026-06-19 14:56:14,881 - Database - INFO - База данных инициализирована
+2026-06-19 14:56:14,891 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,524 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,525 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:16,525 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:16,528 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,528 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:16,528 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:16,529 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:16,529 - Database - WARNING - Невозможно удалить клиента ID: 1, существуют связанные заказы.
+2026-06-19 14:59:16,531 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,532 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:16,532 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:16,533 - Database - INFO - Удален клиент ID: 2
+2026-06-19 14:59:16,534 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,534 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:16,534 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:16,535 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:16,537 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,537 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:16,537 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:16,538 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:16,538 - Database - INFO - Обновлен заказ ID: 1
+2026-06-19 14:59:16,540 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,540 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:16,540 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:16,541 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:16,541 - Database - INFO - Удален заказ ID: 1
+2026-06-19 14:59:16,543 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,543 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:16,544 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:16,545 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:16,545 - Database - INFO - Создан заказ ID: 2
+2026-06-19 14:59:16,545 - Database - INFO - Создан заказ ID: 3
+2026-06-19 14:59:16,547 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:16,547 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:16,547 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:16,548 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:16,548 - Database - INFO - Создан заказ ID: 2
+2026-06-19 14:59:30,647 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:30,653 - Database - INFO - Добавлен клиент: Export Client
+2026-06-19 14:59:30,660 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:30,665 - ExportImport - INFO - Экспорт в JSON выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-0\test_export_import_json0\test.json
+2026-06-19 14:59:30,698 - Database - INFO - Создан заказ ID: 2
+2026-06-19 14:59:30,698 - ExportImport - INFO - Импорт из JSON выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-0\test_export_import_json0\test.json
+2026-06-19 14:59:30,727 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:30,734 - Database - INFO - Добавлен клиент: Export Client
+2026-06-19 14:59:30,739 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:30,741 - ExportImport - INFO - Экспорт в XML выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-0\test_export_import_xml0\test.xml
+2026-06-19 14:59:30,767 - Database - INFO - Создан заказ ID: 2
+2026-06-19 14:59:30,767 - ExportImport - INFO - Импорт из XML выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-0\test_export_import_xml0\test.xml
+2026-06-19 14:59:48,417 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:48,419 - Database - INFO - Добавлен клиент: Export Client
+2026-06-19 14:59:48,424 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:48,427 - ExportImport - INFO - Экспорт в JSON выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-1\test_export_import_json0\test.json
+2026-06-19 14:59:48,435 - Database - INFO - Создан заказ ID: 2
+2026-06-19 14:59:48,435 - ExportImport - INFO - Импорт из JSON выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-1\test_export_import_json0\test.json
+2026-06-19 14:59:48,458 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:48,462 - Database - INFO - Добавлен клиент: Export Client
+2026-06-19 14:59:48,466 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:48,471 - ExportImport - INFO - Экспорт в XML выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-1\test_export_import_xml0\test.xml
+2026-06-19 14:59:48,482 - Database - INFO - Создан заказ ID: 2
+2026-06-19 14:59:48,482 - ExportImport - INFO - Импорт из XML выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-1\test_export_import_xml0\test.xml
+2026-06-19 14:59:55,944 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:55,945 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:55,945 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:55,951 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:55,952 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:55,952 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:55,954 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:55,955 - Database - WARNING - Невозможно удалить клиента ID: 1, существуют связанные заказы.
+2026-06-19 14:59:55,961 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:55,962 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:55,962 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:55,964 - Database - INFO - Удален клиент ID: 2
+2026-06-19 14:59:55,968 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:55,969 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:55,969 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:55,970 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:55,976 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:55,977 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:55,977 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:55,980 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:55,980 - Database - INFO - Обновлен заказ ID: 1
+2026-06-19 14:59:55,984 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:55,985 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:55,985 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:55,987 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:55,988 - Database - INFO - Удален заказ ID: 1
+2026-06-19 14:59:55,992 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:55,992 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:55,993 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:55,995 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:55,995 - Database - INFO - Создан заказ ID: 2
+2026-06-19 14:59:55,995 - Database - INFO - Создан заказ ID: 3
+2026-06-19 14:59:56,000 - Database - INFO - База данных инициализирована
+2026-06-19 14:59:56,000 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 14:59:56,000 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 14:59:56,002 - Database - INFO - Создан заказ ID: 1
+2026-06-19 14:59:56,002 - Database - INFO - Создан заказ ID: 2
+2026-06-19 15:03:14,959 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:14,959 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 15:03:14,960 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 15:03:14,963 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:14,963 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 15:03:14,963 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 15:03:14,964 - Database - INFO - Создан заказ ID: 1
+2026-06-19 15:03:14,964 - Database - WARNING - Невозможно удалить клиента ID: 1, существуют связанные заказы.
+2026-06-19 15:03:14,967 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:14,967 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 15:03:14,967 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 15:03:14,968 - Database - INFO - Удален клиент ID: 2
+2026-06-19 15:03:14,974 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:14,974 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 15:03:14,974 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 15:03:14,975 - Database - INFO - Создан заказ ID: 1
+2026-06-19 15:03:14,978 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:14,979 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 15:03:14,979 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 15:03:14,980 - Database - INFO - Создан заказ ID: 1
+2026-06-19 15:03:14,980 - Database - INFO - Обновлен заказ ID: 1
+2026-06-19 15:03:14,984 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:14,985 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 15:03:14,985 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 15:03:14,986 - Database - INFO - Создан заказ ID: 1
+2026-06-19 15:03:14,987 - Database - INFO - Удален заказ ID: 1
+2026-06-19 15:03:14,993 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:14,994 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 15:03:14,994 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 15:03:14,996 - Database - INFO - Создан заказ ID: 1
+2026-06-19 15:03:14,996 - Database - INFO - Создан заказ ID: 2
+2026-06-19 15:03:14,997 - Database - INFO - Создан заказ ID: 3
+2026-06-19 15:03:15,003 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:15,004 - Database - INFO - Добавлен клиент: Test Client
+2026-06-19 15:03:15,005 - Database - INFO - Добавлен клиент: Test Client 2
+2026-06-19 15:03:15,007 - Database - INFO - Создан заказ ID: 1
+2026-06-19 15:03:15,007 - Database - INFO - Создан заказ ID: 2
+2026-06-19 15:03:15,049 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:15,053 - Database - INFO - Добавлен клиент: Export Client
+2026-06-19 15:03:15,057 - Database - INFO - Создан заказ ID: 1
+2026-06-19 15:03:15,059 - ExportImport - INFO - Экспорт в JSON выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-2\test_export_import_json0\test.json
+2026-06-19 15:03:15,068 - Database - INFO - Создан заказ ID: 2
+2026-06-19 15:03:15,069 - ExportImport - INFO - Импорт из JSON выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-2\test_export_import_json0\test.json
+2026-06-19 15:03:15,105 - Database - INFO - База данных инициализирована
+2026-06-19 15:03:15,109 - Database - INFO - Добавлен клиент: Export Client
+2026-06-19 15:03:15,114 - Database - INFO - Создан заказ ID: 1
+2026-06-19 15:03:15,117 - ExportImport - INFO - Экспорт в XML выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-2\test_export_import_xml0\test.xml
+2026-06-19 15:03:15,121 - Database - INFO - Создан заказ ID: 2
+2026-06-19 15:03:15,121 - ExportImport - INFO - Импорт из XML выполнен: C:\Users\Dude\AppData\Local\Temp\pytest-of-Dude\pytest-2\test_export_import_xml0\test.xml
